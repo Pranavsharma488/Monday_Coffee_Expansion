@@ -1,4 +1,6 @@
+
 # Monday Coffee Expansion SQL Project
+![logo](https://github.com/Pranavsharma488/Monday_Coffee_Expansion-SQL/blob/main/1.png)
 
 
 
